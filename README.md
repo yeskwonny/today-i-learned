@@ -37,10 +37,13 @@
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Setup
-- clone the git 
-  https://github.com/yeskwonny/today-i-learned.git
-  
 
+- Clone the repository to your local machine.
+   https://github.com/yeskwonny/today-i-learned.git
+- Install dependencies using npm install.
+- Create a .env file and add the Supabase URL and API key.
+- Run the app using npm start.
+  
 ## Room for Improvement
 -Implement an authentication system to save users' votes and only allow them to vote once. This ensures fairness and integrity in the voting process and enhances user engagement by providing personalized experiences.
 
