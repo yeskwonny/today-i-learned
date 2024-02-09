@@ -8,7 +8,7 @@
 
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Screenshots/ Live demo](#screenshots/ Live demo)
+- [Live demo](#live-demo)
 - [Setup](#setup)
 - [Room for Improvement](#room-for-improvement)
 - [Contact](#contact)
@@ -29,7 +29,7 @@
 - Facts can be filtered based on different categories such as technology, science, finance, society, entertainment, health, history, and news.
 - This platform provides an intuitive and easy-to-use interface for seamless navigation and interaction.
 
-## Screenshots/ Live demo
+## Live demo
 [LIVE DEMO](https://what-i-learned.netlify.app/)
 
 
