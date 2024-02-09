@@ -41,12 +41,12 @@
 - Clone the repository to your local machine.
    https://github.com/yeskwonny/today-i-learned.git
 - Install dependencies using npm install.
--  ```bash
+   ```bash
    npm install
    ```
 - Create a .env file and add the Supabase URL and API key.
 - Run the app using npm start.
--  ```bash
+ ```bash
    npm start
    ```
   
