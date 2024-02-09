@@ -10,7 +10,6 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Room for Improvement](#room-for-improvement)
 - [Contact](#contact)
 <!-- * [License](#license) -->
