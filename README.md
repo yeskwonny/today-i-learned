@@ -8,7 +8,7 @@
 
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Screenshots/ Live demo](#screenshots/ Live demo)
 - [Setup](#setup)
 - [Room for Improvement](#room-for-improvement)
 - [Contact](#contact)
